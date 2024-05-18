@@ -10,9 +10,8 @@ This is a simple Android unit converter application built using Jetpack Compose.
 - Kotlin 1.5 (or newer)
 ### Installation
 1. Clone the repository:
-     git clone https://github.com/Nikithathota/unitconverter.git
-
-3. Open the project in Android Studio.
-4. Build and run the application on an Android device or emulator.
+    git clone https://github.com/Nikithathota/Unit-Converter-kotlin-
+2. Open the project in Android Studio.
+3. Build and run the application on an Android device or emulator.
 
 <img src="Screenshot 2024-05-18 225057.png"/>
